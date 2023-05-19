@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "BxProject",
+    "slug": "BxProject",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5b00c968-5c9f-4dde-a086-f1f1c66bbcf4"
+      }
+    },
+    "owner": "belino19"
+  }
+}
